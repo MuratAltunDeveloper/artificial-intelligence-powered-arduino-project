@@ -4,5 +4,5 @@ The aim of my project is to design an artificial intelligence supported product 
 ![git_arduino2](https://github.com/user-attachments/assets/9fabd5a4-26d4-442a-b99e-c1265e5f9e77)
 The connections on the arduino side of the project are as in the image below:
 ![image](https://github.com/user-attachments/assets/2df5df39-73fc-43a6-a4f8-ad4f9246481c)
-
+On the esp32 side, connections are made with pins G17 and G16. 
 
